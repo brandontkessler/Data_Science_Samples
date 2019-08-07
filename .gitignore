@@ -1,0 +1,10 @@
+# Virtual Environment
+venv/
+
+
+# Pycache
+*.pyc
+__pycache__/
+.ipynb*
+
+.DS_Store
